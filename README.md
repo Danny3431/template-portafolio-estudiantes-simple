@@ -1,2 +1,124 @@
-# template-portafolio-estudiantes-simple
-Portafolio Básico
+# 📱 Portfolio – Desarrollo de Aplicaciones Móviles
+
+## 👩‍💻 Tú Nombre
+
+Desarrollador de aplicaciones móviles enfocada en la creación de soluciones prácticas, integrando consumo de APIs, persistencia de datos y experiencia de usuario.
+
+📧 [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)
+
+🔗 LinkedIn: tu-linkedin
+
+💻 GitHub: ([Tú usuario en GitHub](https://github.com/Danny3431/template-perfil-github-estudiantes)) 
+
+---
+
+## 🚀 Sobre mí
+
+Soy desarrollador en formación con enfoque en el desarrollo de aplicaciones móviles, combinando conocimientos en programación, consumo de APIs y manejo de datos.
+
+Me especializo en construir aplicaciones funcionales, con énfasis en la lógica, persistencia de información y experiencia del usuario.
+
+---
+
+## 📌 Proyectos
+
+### 💰 Dollar App
+
+Aplicación de billetera virtual que permite a los usuarios gestionar sus finanzas personales.
+
+**Funcionalidades:**
+
+* Compra y venta de dólares
+* Registro de transacciones
+* Persistencia de datos (historial de operaciones)
+
+🔗 Ver proyecto: *([Dollar App en GitHub](https://github.com/Mariocanedo/Dollar_room_pm))*
+
+---
+
+### 🚀 Mars API
+
+Aplicación que consume una API para explorar terrenos en Marte.
+
+**Funcionalidades:**
+
+* Consumo de API externa
+* Visualización de datos
+* Selección de terrenos
+* Persistencia de favoritos
+
+🔗 Ver proyecto: *([Mars API en GitHub](https://github.com/jayxuss/evaluacion-M6))*
+
+---
+
+## 🛠️ Tecnologías utilizadas
+
+* Kotlin / Java
+* Consumo de APIs REST
+* Manejo de datos
+* Persistencia de estados
+* Git y GitHub
+
+---
+
+## 📈 Próximos proyectos
+
+* Nuevas aplicaciones móviles con integración de APIs
+* Mejora de interfaces de usuario
+* Implementación de nuevas funcionalidades y optimización
+
+---
+
+## 📬 Contacto
+
+📧 [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)
+🔗 LinkedIn: tu-linkedin
+
+---
+
+⭐ Si te interesa mi trabajo, puedes revisar mis repositorios y proyectos en GitHub.
+
+---
+
+
+# 📥 Cómo usar esta plantilla
+
+## Opción 1: Descargar desde GitHub
+
+1. Ir al repositorio.
+2. Hacer clic en el botón verde **Code**.
+3. Seleccionar **Download ZIP**.
+4. Descomprimir el archivo en tu computador.
+
+---
+
+## Opción 2: Clonar con Git
+
+Si tienes Git instalado:
+
+```bash
+git clone LINK-DEL-REPOSITORIO
+```
+
+---
+
+## Opción 3: Copiar manualmente
+
+1. Abrir el archivo `README.md`.
+2. Copiar todo el contenido.
+3. Crear un nuevo repositorio en tu GitHub.
+4. Crear un archivo `README.md`.
+5. Pegar el contenido.
+6. Reemplazar los textos con tu información.
+
+---
+
+# ⚠️ Importante
+
+* Reemplazar TODOS los textos con la informacion de tus aplicaciones
+* Agregar links reales de tus proyectos
+* Mantener orden y claridad
+* No dejar textos de ejemplo
+
+---
+

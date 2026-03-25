@@ -102,17 +102,6 @@ git clone LINK-DEL-REPOSITORIO
 
 ---
 
-## Opción 3: Copiar manualmente
-
-1. Abrir el archivo `README.md`.
-2. Copiar todo el contenido.
-3. Crear un nuevo repositorio en tu GitHub.
-4. Crear un archivo `README.md`.
-5. Pegar el contenido.
-6. Reemplazar los textos con tu información.
-
----
-
 # ⚠️ Importante
 
 * Reemplazar TODOS los textos con la informacion de tus aplicaciones
